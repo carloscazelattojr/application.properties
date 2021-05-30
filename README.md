@@ -1,6 +1,6 @@
 # application.properties
 
-Dicas e configurações rápidas para vários bancos de dados
+Dicas de configurações rápidas para Spring Boot Java, para vários bancos de dados.
 
 `h2` `PostgreSql`
 
