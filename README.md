@@ -7,7 +7,7 @@ Dicas de configurações rápidas para Spring Boot Java, para vários bancos de 
 `Jpa`
 
 
-
+```
 #Spring Boot server configuration
 server.port=8000
 server.servlet.context-path=/
@@ -70,4 +70,5 @@ logging.level.org.hibernate.SQL=debug
 
 #Jpa Config
 spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true
-spring.jpa.hibernate.ddl-auto=update
+spring.jpa.hibernate.ddl-auto=update 
+```
