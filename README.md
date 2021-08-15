@@ -59,6 +59,9 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5InnoDBDialec
 #Hibernate auto dll
 spring.jpa.hibernate.ddl-auto=update
 
+#Show SQL
+spring.jpa.show-sql=true
+
 logging.level.org.hibernate.SQL=debug
 #MySql - End ------------------------------------------------------------------------------
 
